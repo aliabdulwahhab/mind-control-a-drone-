@@ -1,0 +1,3 @@
+import processing.serial.*;
+import neurosky.*; 
+ThinkGearSocket neuroSocket;    % the current way 
